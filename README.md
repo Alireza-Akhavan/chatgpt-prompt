@@ -2,7 +2,7 @@
 How to use OpenAI ChatGPT API , and ChatGPT Prompt Engineering for Developers
 
 ## Course Page (Persian Video Tutorial)
-
+[https://class.vision/product/prompt-chatgpt-api-openai-developer/](https://class.vision/product/prompt-chatgpt-api-openai-developer/)
 ## Slides
 
 ## Codes (On Google Colab)
